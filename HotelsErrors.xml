@@ -4,7 +4,7 @@
 		<Name>Grand Phoenix Inn</Name>
 		<Phone>602-555-1234</Phone>
 		<Phone>602-555-5678</Phone>
-		<Address NearstAirport="PHX">
+		<Address>
 			<Number>100</Number>
 			<Street>Main St</Street>
 			<City>Phoenix</City>
@@ -15,7 +15,6 @@
 
 	<Hotel Rating="4.0">
 		<Name>Skyline Suites</Name>
-		<Phone>480-555-7890</Phone>
 		<Address NearstAirport="PHX">
 			<Number>202</Number>
 			<Street>Sunset Blvd</Street>
@@ -35,8 +34,7 @@
 			<City>Glendale</City>
 			<State>AZ</State>
 			<Zip>85301</Zip>
-		</Address>
-	</Hotel>
+		</Hotel>
 
 	<Hotel>
 		<Name>Oasis Inn</Name>
@@ -52,6 +50,7 @@
 
 	<Hotel Rating="5.0">
 		<Name>Luxury Stay</Name>
+		<Name>Skyline Suites</Name>
 		<Phone>602-555-9012</Phone>
 		<Address NearstAirport="PHX">
 			<Number>505</Number>
