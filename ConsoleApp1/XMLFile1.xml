@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Hotels>
+	<Hotel Stars="****">
+		<Name>Harbor View Inn</Name>
+		<Contact>
+			<Phone>(805)963-0780</Phone>
+			<Email>contact@harborviewinn.com</Email>
+		</Contact>
+		<Address BusLines="R2">
+			<Number>28</Number>
+			<Street>W Cabrillo Blvd</Street>
+			<City>Santa Barbara</City>
+			<Zip>93101</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Stars="**">
+		<Name>Ala Mar Motel</Name>
+		<Contact>
+			<Phone>(805)962-9208</Phone>
+			<Email>service@alamar.com</Email>
+		</Contact>
+		<Address BusLines="R2">
+			<Number>102</Number>
+			<Street>West Cabrillo Blvd</Street>
+			<City>Santa Barbara</City>
+			<Zip>93101</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Stars="*****">
+		<Name>Hotel Californian</Name>
+		<Contact>
+			<Phone>(805)882-0100</Phone>
+			<Email>contact@californian.com</Email>
+		</Contact>
+		<Address BusLines="R2">
+			<Number>36</Number>
+			<Street>State St</Street>
+			<City>Santa Barbara</City>
+			<Zip>93101</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Stars="***">
+		<Name>Villa Rosa Inn</Name>
+		<Contact>
+			<Phone>(805) 966-0851</Phone>
+			<Email>villarosa@inn.com</Email>
+		</Contact>
+		<Address BusLines="L1">
+			<Number>15</Number>
+			<Street>Chapala St</Street>
+			<City>Santa Barbara</City>
+			<Zip>93101</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Stars="**">
+		<Name>Best Western Beachside Inn</Name>
+		<Contact>
+			<Phone>(805) 965-6556</Phone>
+			<Email>reservations@bestwest.com</Email>
+		</Contact>
+		<Address>
+			<Number>336</Number>
+			<Street>W Cabrillo Blvd</Street>
+			<City>Santa Barbara</City>
+			<Zip>93101</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
