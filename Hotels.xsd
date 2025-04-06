@@ -4,16 +4,13 @@
 		<xs:complexType>
 			<xs:sequence>
 				<xs:element name="Hotel" maxOccurs ="unbounded">
-					
 					<xs:complexType>
+						
 						<xs:sequence>
-							
 							<!-- Name of the hotel -->
 							<xs:element name="Name" type="xs:string"/>
-							<!--Rating-->
-							<xs:element name="Rating" type ="xs:string"/>
 							<!--One or more phone num-->
-							<xs:element name="Phone" type="xs:string"/>
+							<xs:element name="Phone" type="xs:string" maxOccurs="unbounded"/>
 							
 							<!--Address-->
 							<xs:element name="Address">
@@ -33,11 +30,14 @@
 									<xs:attribute name="NearstAirport" type="xs:string" use="required"/>
 								</xs:complexType>
 							</xs:element>
-							
 						</xs:sequence>
+						
+						<!--Rating of the hotel-->
+						<xs:attribute name="Rating" type="xs:string" use="optional"/>
 					</xs:complexType>
 				</xs:element>
 			</xs:sequence>
 		</xs:complexType>
 	</xs:element>
+	
 </xs:schema>
