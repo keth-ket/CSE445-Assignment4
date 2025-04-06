@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotel>
+<Hotels>
 	<Hotel Rating="4.5">
 		<Name>Grand Phoenix Inn</Name>
 		<Phone>602-555-1234</Phone>
@@ -123,5 +123,5 @@
 			<Zip>85004</Zip>
 		</Address>
 	</Hotel>
-</Hotel>
+</Hotels>
 
