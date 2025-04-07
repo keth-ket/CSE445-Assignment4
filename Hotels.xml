@@ -3,7 +3,7 @@
 	<Hotel Rating="4.7">
 		<Name>Royal Palms Resort</Name>
 		<Phone>602-283-1234</Phone>
-		<Address NearestAirport="PHX">
+		<Address NearstAirport="PHX">
 			<Number>5200</Number>
 			<Street>E Camelback Rd</Street>
 			<City>Phoenix</City>
@@ -14,7 +14,7 @@
 	<Hotel>
 		<Name>Arizona Grand Resort Spa</Name>
 		<Phone>877-800-4888</Phone>
-		<Address NearestAirport="PHX">
+		<Address NearstAirport="PHX">
 			<Number>8000</Number>
 			<Street>South Arizona Grand E</Street>
 			<City>Phoenix</City>
@@ -26,7 +26,7 @@
 		<Name>Hyatt Place Tempe / Phoenix / University</Name>
 		<Phone>480-207-1578</Phone>
 		<Phone>602-283-1234</Phone>
-		<Address NearestAirport="PHX">
+		<Address NearstAirport="PHX">
 			<Number>601</Number>
 			<Street>E 6th St</Street>
 			<City>Tempe</City>
@@ -38,7 +38,7 @@
 		<Name>The McCormick Scottsdale</Name>
 		<Phone>800-535-1865</Phone>
 		<Phone>602-283-1234</Phone>
-		<Address NearestAirport="PHX">
+		<Address NearstAirport="PHX">
 			<Number>7421</Number>
 			<Street>N Scottsdale Rd</Street>
 			<City>Scottsdale</City>
@@ -50,7 +50,7 @@
 		<Name>La Quinta Inn by Wyndham Phoenix Sky Harbor Airport</Name>
 		<Phone>480-967-4465</Phone>
 		<Phone>602-283-1234</Phone>
-		<Address NearestAirport="PHX">
+		<Address NearstAirport="PHX">
 			<Number>911</Number>
 			<Street>S 48th St</Street>
 			<City>Tempe</City>
@@ -61,7 +61,7 @@
 	<Hotel>
 		<Name>Wyndham Phoenix Airport/Tempe</Name>
 		<Phone>480-967-6600</Phone>
-		<Address NearestAirport="PHX">
+		<Address NearstAirport="PHX">
 			<Number>1600</Number>
 			<Street>S 52nd St</Street>
 			<City>Tempe</City>
@@ -72,7 +72,7 @@
 	<Hotel Rating="3.5">
 		<Name>Red Roof PLUS+ Phoenix West</Name>
 		<Phone>602-325-9216</Phone>
-		<Address NearestAirport="PHX">
+		<Address NearstAirport="PHX">
 			<Number>5215</Number>
 			<Street>W Willetta St</Street>
 			<City>Phoenix</City>
@@ -83,7 +83,7 @@
 	<Hotel>
 		<Name>Hilton Hotel Phoenix</Name>
 		<Phone>602-225-0500</Phone>
-		<Address NearestAirport="PHX">
+		<Address NearstAirport="PHX">
 			<Number>320</Number>
 			<Street>N 44th St</Street>
 			<City>Phoenix</City>
@@ -94,7 +94,7 @@
 	<Hotel Rating="2.5">
 		<Name>HomeTowne Studios Phoenix - Dunlap Ave</Name>
 		<Phone>602-428-6401</Phone>
-		<Address NearestAirport="PHX">
+		<Address NearstAirport="PHX">
 			<Number>2102</Number>
 			<Street>W Dunlap Ave</Street>
 			<City>Phoenix</City>
@@ -105,7 +105,7 @@
 	<Hotel Rating="2.8">
 		<Name>Extend A Suites</Name>
 		<Phone>602-993-8300</Phone>
-		<Address NearestAirport="PHX">
+		<Address NearstAirport="PHX">
 			<Number>17211</Number>
 			<Street>N Black Cyn Hwy</Street>
 			<City>Phoenix</City>
