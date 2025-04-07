@@ -1,125 +1,115 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotels>
-	<Hotel Rating="4.5">
-		<Name>Grand Phoenix Inn</Name>
-		<Phone>602-555-1234</Phone>
-		<Phone>602-555-5678</Phone>
-		<Address>
-			<Number>100</Number>
-			<Street>Main St</Street>
+<Hotel>
+	<Hotel Rating="4.7">
+		<Name>Royal Palms Resort</Name>
+		<Address NearestAirport="PHX">
+			<Number>5200</Number>
+			<Street>E Camelback Rd</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
-			<Zip>85001</Zip>
+			<Zip>85018</Zip>
 		</Address>
 	</Hotel>
-
-	<Hotel Rating="4.0">
-		<Name>Skyline Suites</Name>
-		<Address NearstAirport="PHX">
-			<Number>202</Number>
-			<Street>Sunset Blvd</Street>
+	<Hotel>
+		<Name>Arizona Grand Resort Spa</Name>
+		<Phone>877-800-4888</Phone>
+		<Address NearestAirport="PHX">
+			<Number>8000</Number>
+			<Street>South Arizona Grand E</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85044</Zip>
+	</Hotel>
+	<Hotel Rating="4.2">
+		<Name>Hyatt Place Tempe / Phoenix / University</Name>
+		<Name>Hyatt Place Tempe / Phoenix</Name>
+		<Phone>480-207-1578</Phone>
+		<Phone>602-283-1234</Phone>
+		<Address>
+			<Number>601</Number>
+			<Street>E 6th St</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-
-	<Hotel Rating="3.8">
-		<Name>Desert Sands Hotel</Name>
-		<Phone>623-555-4567</Phone>
-		<Phone>623-555-6789</Phone>
-		<Address NearstAirport="PHX">
-			<Number>303</Number>
-			<Street>Cactus Rd</Street>
-			<City>Glendale</City>
-			<State>AZ</State>
-			<Zip>85301</Zip>
-		</Hotel>
-
-	<Hotel>
-		<Name>Oasis Inn</Name>
-		<Phone>520-555-2345</Phone>
-		<Address NearstAirport="TUS">
-			<Number>404</Number>
-			<Street>Broadway</Street>
-			<City>Tucson</City>
-			<State>AZ</State>
-			<Zip>85701</Zip>
-		</Address>
-	</Hotel>
-
-	<Hotel Rating="5.0">
-		<Name>Luxury Stay</Name>
-		<Name>Skyline Suites</Name>
-		<Phone>602-555-9012</Phone>
-		<Address NearstAirport="PHX">
-			<Number>505</Number>
-			<Street>Paradise Ln</Street>
+	<Hotel Rating="4.1">
+		<Name>The McCormick Scottsdale</Name>
+		<Phone>800-535-1865</Phone>
+		<Phone>602-283-1234</Phone>
+		<Address NearestAirport="PHX">
+			<Number>7421</Number>
+			<Street>N Scottsdale Rd</Street>
 			<City>Scottsdale</City>
 			<State>AZ</State>
-			<Zip>85254</Zip>
+			<Zip>85253</Zip>
 		</Address>
 	</Hotel>
-
-	<Hotel Rating="3.2">
-		<Name>Budget Lodge</Name>
-		<Phone>928-555-3333</Phone>
-		<Address NearstAirport="FLG">
-			<Number>606</Number>
-			<Street>Route 66</Street>
-			<City>Flagstaff</City>
-			<State>AZ</State>
-			<Zip>86001</Zip>
-		</Address>
-	</Hotel>
-
 	<Hotel>
-		<Name>Mountain View Motel</Name>
-		<Phone>928-555-7777</Phone>
-		<Phone>928-555-8888</Phone>
-		<Address NearstAirport="FLG">
-			<Number>707</Number>
-			<Street>Hilltop Dr</Street>
-			<City>Prescott</City>
+		<Name>La Quinta Inn by Wyndham Phoenix Sky Harbor Airport</Name>
+		<Phone>480-967-4465</Phone>
+		<Phone>602-283-1234</Phone>
+		<Address NearestAirport="PHX">
+			<Number>911</Number>
+			<Street>S 48th St</Street>
+			<City>Tempe</City>
 			<State>AZ</State>
-			<Zip>86301</Zip>
+			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-
-	<Hotel Rating="4.3">
-		<Name>Sunrise Hotel</Name>
-		<Phone>602-555-2222</Phone>
-		<Address NearstAirport="PHX">
-			<Number>808</Number>
-			<Street>Morning Glory Rd</Street>
-			<City>Chandler</City>
-			<State>AZ</State>
-			<Zip>85225</Zip>
-		</Address>
-	</Hotel>
-
 	<Hotel>
-		<Name>TravelTime Inn</Name>
-		<Phone>520-555-9999</Phone>
-		<Address NearstAirport="TUS">
-			<Number>909</Number>
-			<Street>Speedway Blvd</Street>
-			<City>Tucson</City>
+		<Name>Wyndham Phoenix Airport/Tempe</Name>
+		<Phone>480-967-6600</Phone>
+		<Address NearestAirport="PHX">
+			<Number>1600</Number>
+			<Street>S 52nd St</Street>
+			<City>Tempe</City>
 			<State>AZ</State>
-			<Zip>85705</Zip>
+			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-
-	<Hotel Rating="4.9">
-		<Name>Cactus Resort</Name>
-		<Phone>602-555-1212</Phone>
-		<Phone>602-555-3434</Phone>
-		<Address NearstAirport="PHX">
-			<Number>1010</Number>
-			<Street>Resort Way</Street>
+	<Hotel Rating="3.5">
+		<Name>Red Roof PLUS+ Phoenix West</Name>
+		<Phone>602-325-9216</Phone>
+		<Address NearestAirport="PHX">
+			<Number>5215</Number>
+			<Street>W Willetta St</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
-			<Zip>85004</Zip>
+			<Zip>85043</Zip>
 		</Address>
 	</Hotel>
-</Hotels>
+	<Hotel>
+		<Name>Hilton Hotel Phoenix</Name>
+		<Phone>602-225-0500</Phone>
+		<Address NearestAirport="PHX">
+			<Number>320</Number>
+			<Street>N 44th St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85008</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="2.5">
+		<Name>HomeTowne Studios Phoenix - Dunlap Ave</Name>
+		<Phone>602-428-6401</Phone>
+		<Address NearestAirport="PHX">
+			<Number>2102</Number>
+			<Street>W Dunlap Ave</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85021</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="2.8">
+		<Name>Extend A Suites</Name>
+		<Phone>602-993-8300</Phone>
+		<Address NearestAirport="PHX">
+			<Number>17211</Number>
+			<Street>N Black Cyn Hwy</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85023</Zip>
+		</Address>
+	</Hotel>
+</Hotel>
